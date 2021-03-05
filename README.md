@@ -1,2 +1,2 @@
-# git_test
+This is Elodie's first git project!
 
